@@ -1,14 +1,15 @@
 
 
 
-<p align="left">
-    <div>
-              <p>私はpython界のガルーラです</p>
-              <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
-                <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/na2kera/graph.png" width="300px" />
-              </a>
-              <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
-            </div>
-</p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=na2kera&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=na2kera&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=na2kera&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=na2kera&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=na2kera&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=na2kera&theme=gruvbox)
+
 
 
