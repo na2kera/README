@@ -11,5 +11,7 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=na2kera&theme=gruvbox)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=na2kera)
+
 
 
